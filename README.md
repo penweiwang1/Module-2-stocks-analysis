@@ -26,9 +26,3 @@ Some advantages of refactoring code is that it may help reduce the run time of t
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 An advantage of the the refactored VBA script was that it helped decrease the run time by more than half compared to the original script. From 0.289 seconds to 0.070 seconds for year 2017. A disadvantage was that it introduced a new variable (tickerIndex) that for a inexperienced coder, it can increase the chance of creating a bug if not used correctly. 
-
-
-
-Results
-The analysis is well described with screenshots and code (4 pt).
-
